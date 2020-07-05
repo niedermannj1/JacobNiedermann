@@ -6785,7 +6785,7 @@ License - nucleoapp.com/license/
 }
 
 .title-brand {
-  max-width: 700px;
+  max-width: 10em;
   margin: 0 auto;
   position: relative;
   text-align: center;
@@ -6806,7 +6806,7 @@ License - nucleoapp.com/license/
 }
 
 .presentation-title {
-  font-size: 4em;
+  font-size: 6em;
   font-weight: 700;
   margin: 0;
   color: #FFFFFF;
